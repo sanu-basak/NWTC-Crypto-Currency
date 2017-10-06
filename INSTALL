@@ -1,0 +1,9 @@
+Building NWTCcoin
+
+See doc/readme-qt.rst for instructions on building NWTCcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of NWTCcoin.
+
+See doc/build-*.txt for instructions on building nwtcd,
+the intended-for-services, no-graphical-interface, reference
+implementation of NWTCcoin.
